@@ -1,0 +1,3 @@
+# Handwriting Recognition using paddleOCR
+
+
